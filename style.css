@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0;box-sizing:border-box;
+    font-family: sans-serif;}
+body{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: 
+    url(https://s.yimg.com/ny/api/res/1.2/LTEFllnfXtJWHblY1fsmlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY1Mw--/https://s.yimg.com/uu/api/res/1.2/LfalOCrXGFRrNB9JrmyYww--~B/aD0xMjI0O3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/the_independent_uses_512/f2b2b2fc083cd3b04ba1d5bb66570a94);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px #ccc;
+    padding: 50px;
+    border: 3px solid #424242;
+    text-align: right;}
+.paragraph img{
+    width: 300px;
+    border-radius: 500px;
+    margin: 30px;}
+
